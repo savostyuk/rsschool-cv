@@ -18,14 +18,16 @@ ul {
     color: white;
 }
 header {
-    height: 70px;
-    border-bottom: white 1px solid;
+   border-bottom: white 1px solid;
 }
 header h2{
     text-align: center;
     margin: 0;
     height: 70px;
     line-height: 70px;
+}
+.image{
+    text-align: center;
 }
 main, footer{
     padding-left: 30px;
