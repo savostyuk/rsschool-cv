@@ -1,5 +1,5 @@
 CV
-First Name: Natalia Last Name: Shulzhenko
+First Name: Natalia Last Name: Shulzhenko Date of birth: 05/10/1991
 Contact:
 phone: +375(33)688-66-00
 email: savostyuk@gmail.com
